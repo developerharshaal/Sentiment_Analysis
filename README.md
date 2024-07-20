@@ -1,6 +1,3 @@
-Sure, I can help you create a README file for your Jupyter notebook titled "Comparative Analysis". Here’s a template for the README file:
-
----
 
 # Comparative Analysis
 
